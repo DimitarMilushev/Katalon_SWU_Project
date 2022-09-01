@@ -27,10 +27,9 @@ WebUI.setText(findTestObject('Object Repository/LoginTestsRepository/Page_Swag L
 WebUI.setEncryptedText(findTestObject('Object Repository/LoginTestsRepository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'), 
     'qcu24s4901FyWDTwXGr6XA==')
 
-WebUI.sendKeys(findTestObject('Object Repository/LoginTestsRepository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'), 
-    Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/LoginTestsRepository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 
-WebUI.click(findTestObject('Object Repository/LoginTestsRepository/Page_Swag Labs/button_Add to cart'))
+WebUI.verifyElementPresent(findTestObject('LoginTestsRepository/Page_Swag Labs/span_PRODUCTS'), 5)
 
 WebUI.closeBrowser()
 

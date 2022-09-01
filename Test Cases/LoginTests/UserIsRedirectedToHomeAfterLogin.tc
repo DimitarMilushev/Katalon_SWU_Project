@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>- User enters username
-- User enters password
-- User is redirectd to Home screen
-- User can see products</description>
+   <description></description>
    <name>UserIsRedirectedToHomeAfterLogin</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>79290d3d-5d29-4192-8640-df2e82e9563d</testCaseGuid>
+   <testCaseGuid>6f64d4ca-7258-475c-89b8-a196f742e02c</testCaseGuid>
 </TestCaseEntity>

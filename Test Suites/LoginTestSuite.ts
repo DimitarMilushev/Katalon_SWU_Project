@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>8330da32-58d1-40e7-adc0-a03f40dd3979</testSuiteGuid>
    <testCaseLink>
-      <guid>3d8b1864-692a-4eb3-b9c4-db5ea8ca579e</guid>
+      <guid>095c71aa-7b99-41a5-9316-1ab5da9fcf38</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/LoginTests/UserIsRedirectedToHomeAfterLogin</testCaseId>
